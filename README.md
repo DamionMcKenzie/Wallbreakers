@@ -176,8 +176,6 @@ Know when and how to use sorting and binary searching.
 </details>
 <br>
 
-**<h3>[Week 3 Submission Link](https://forms.gle/HMz5uhjwwAs3mmgFA)</h3>**
-
 ## Week Four
 **Goals:**
 
