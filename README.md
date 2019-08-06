@@ -1,9 +1,5 @@
 # Wallbreakers 2019 Summer Syllabus
 
-Made by Guillermo Sanchez Lamas – [GitHub](http://github.com/membriux), [LinkedIn](http://linkedin.com/in/guillermo-s)
-
-<h3><a href="https://docs.google.com/document/d/1clBU6vYIjnBrMDwNJrcUR0yY4bVTQXKBk45s9NBrvNU/edit" target="_blank">Wallbreakers assigment submission help guide by Ish Perez</a> </h3>
-
 ## Week One
 **Goal** 
 >Decide which programming language you will study in this course. 
@@ -72,8 +68,6 @@ It is key to be fluent in at least one language during coding interviews. We als
 </details>
 
 
-**<h3>[Week 1 Submission Link](https://forms.gle/CvTYMpEFm193U5zr5)</h3>**
-
 ## Week Two
 **Goals** 
 >Be comfortable using hash maps and hash sets in your language of choice. 
@@ -121,8 +115,6 @@ Look at multisets (a special type of hash maps used for counting occurrences of 
 <a href="https://leetcode.com/problems/implement-trie-prefix-tree">Implement trie prefix tree</a><br>
 <a href="https://leetcode.com/problems/word-search-ii">Word search ii</a><br>
 </details>
-
-**<h3>[Week 2 Submission Link](https://forms.gle/NTdtYQ3qrpU9wZTV9)</h3>**
 
 ## Week Three
 
