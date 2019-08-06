@@ -68,6 +68,8 @@ It is key to be fluent in at least one language during coding interviews. We als
 </details>
 
 
+
+
 ## Week Two
 **Goals** 
 >Be comfortable using hash maps and hash sets in your language of choice. 
@@ -115,6 +117,8 @@ Look at multisets (a special type of hash maps used for counting occurrences of 
 <a href="https://leetcode.com/problems/implement-trie-prefix-tree">Implement trie prefix tree</a><br>
 <a href="https://leetcode.com/problems/word-search-ii">Word search ii</a><br>
 </details>
+
+
 
 ## Week Three
 
@@ -261,6 +265,8 @@ Become familiar with tree and graph traversals, shortest path algorithms, minimu
 - [ ]Topics Covered in This Week’s Coding Exercises:
 - Trees
 - Graphs
+
+
 
 
 ## Week Six
